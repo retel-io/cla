@@ -1,4 +1,4 @@
-# Contributors License Agreements
+# Contributor License Agreements
 
 This repository serves as the umbrella project to manage contributor license agreements for the retel.io project.
 Learn how to contribute and to sign up as a contributor.
